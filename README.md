@@ -1,17 +1,5 @@
-## butterfly.js.org
+# [butterfly.js.org](https://github.com/jerryc127/butterfly.js.org)
 
-這是 hexo 主題 Butterfly 的文件/ Demo 倉庫
+借用 [https://github.com/jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly) 的文档和 Demo 仓库搭建自己的博客。快去 star 原仓库！
 
-歡迎 PR 完善文件
-### 提交網站到 `示例`
-
-1. 確保你使用 Butterfly 主題
-2. 點擊這個[鏈接](https://github.com/jerryc127/butterfly.js.org/edit/main/source/_data/link.yml)
-3. 按要求新增內容(請添加在**末尾**)
-  ```yaml
-    - name: 博客名
-      link: 博客地址
-      avatar: 博客頭像
-      descr: 博客描述
-  ```
-4. 點擊下面的 `Commit changes` ，合併到 butterfly.js.org 倉庫
+Build a blog web base on the doc and demo repository of [https://github.com/jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly). Remember to star the origin repository!
